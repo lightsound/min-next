@@ -1,5 +1,4 @@
 {
-  "name": "min-next",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -15,7 +14,7 @@
   "devDependencies": {
     "@types/node": "17.0.25",
     "@types/react": "18.0.5",
-    "@types/react-dom": "^18.0.1",
+    "@types/react-dom": "18.0.1",
     "eslint": "8.13.0",
     "eslint-config-next": "12.1.5",
     "eslint-config-prettier": "8.5.0",
